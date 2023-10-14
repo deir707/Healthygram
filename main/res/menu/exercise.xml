@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/exercise1"
+        android:title="@string/textView47"/>
+    <item
+        android:id="@+id/exercise2"
+        android:title="@string/textView49"/>
+    <item
+        android:id="@+id/exercise3"
+        android:title="@string/textView51"/>
+    <item
+        android:id="@+id/exercise4"
+        android:title="@string/textView53"/>
+    <item
+        android:id="@+id/exercise5"
+        android:title="@string/textView55"/>
+    <item
+        android:id="@+id/exercise6"
+        android:title="@string/textView57"/>
+</menu>
